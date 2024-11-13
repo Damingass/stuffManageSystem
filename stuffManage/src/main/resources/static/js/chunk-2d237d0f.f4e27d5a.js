@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d237d0f"],{fd72:function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t._self._c;return e("div",[t._v(" test2 ")])},s=[],c={created(){},metheds:{handleLogin(){axios.get("http://localhost:8081/user/test2").then(t=>{console.log("响应数据：",t.data)}).catch(t=>{console.error("失败：",t)})}}},l=c,a=n("2877"),r=Object(a["a"])(l,o,s,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d237d0f.f4e27d5a.js.map
